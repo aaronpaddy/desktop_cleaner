@@ -8,7 +8,7 @@ You can run this script in Visual Studio Code or any terminal that supports Pyth
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your_username/DesktopCleaner.git
+   git clone https://github.com/aaronpaddy/desktop_cleaner.git
    ```
 
 2. Navigate to the project directory:
